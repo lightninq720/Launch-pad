@@ -1,6 +1,6 @@
-package com._lightninq.listeners;
+package com.lightninq720.listeners;
 
-import com._lightninq.LaunchPad;
+import com.lightninq720.LaunchPad;
 
 import lombok.RequiredArgsConstructor;
 

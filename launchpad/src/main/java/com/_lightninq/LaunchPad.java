@@ -1,6 +1,6 @@
-package com._lightninq;
+package com.lightninq720;
 
-import com._lightninq.listeners.PlayerListener;
+import com.lightninq720.listeners.PlayerListener;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 import lombok.Getter;

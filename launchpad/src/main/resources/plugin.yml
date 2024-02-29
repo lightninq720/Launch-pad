@@ -1,4 +1,4 @@
 name: LaunchPad
 version: 0.0.1
-main: com._lightninq.LaunchPad
+main: com.lightninq720.LaunchPad
 description: Launch pad plugin
